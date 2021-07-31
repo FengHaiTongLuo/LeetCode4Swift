@@ -3,5 +3,5 @@
 传送门：
 <br/>[0001. 两数之和](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/1.%20Two%20Sum)
 <br/>[0054. 螺旋矩阵](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/54.%20Spiral%20Matrix.swift)
-
+<br/>[0055. 跳跃游戏](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/55.%20Jump%20Game.swift)
 
