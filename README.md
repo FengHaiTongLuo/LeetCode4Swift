@@ -1,4 +1,4 @@
-我在`LeetCode`答题的代码都会统一存放在这里。
+我在`LeetCode`答题的`Swift`代码都会统一存放在这里。
 
 传送门：
 <br/>[0001. 两数之和](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/1.%20Two%20Sum)
