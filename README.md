@@ -5,6 +5,7 @@
 <br/>[0002. 两数相加](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/2.%20Add%20Two%20Numbers.swift)
 <br/>[0003. 无重复字符的最长子串](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters.swift)
 <br/>[0004. 寻找两个正序数组的中位数](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/4.%20Median%20of%20Two%20Sorted%20Arrays.swift)
+<br/>[0005. 最长回文子串](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/5.%20Longest%20Palindromic%20Substring.swift)
 <br/>[0054. 螺旋矩阵](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/54.%20Spiral%20Matrix.swift)
 <br/>[0055. 跳跃游戏](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/55.%20Jump%20Game.swift)
 <br/>[0056. 合并区间](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/56.%20Merge%20Intervals.swift)
