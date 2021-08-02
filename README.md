@@ -22,3 +22,4 @@
 <br/>[0061. 旋转链表](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/61.%20Rotate%20List.swift)
 <br/>[0062. 不同路径](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/62.%20Unique%20Paths.swift)
 <br/>[0063. 不同路径 II](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/63.%20Unique%20Paths%20II.swift)
+<br/>[0064. 最小路径和](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/64.%20Minimum%20Path%20Sum.swift)
