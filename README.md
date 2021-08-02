@@ -15,3 +15,4 @@
 <br/>[0058. 最后一个单词的长度](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/58.%20Length%20of%20Last%20Word.swift)
 <br/>[0059. 螺旋矩阵 II](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/59.%20Spiral%20Matrix%20II.swift)
 <br/>[0060. 排列序列](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/60.%20Permutation%20Sequence.swift)
+<br/>[0061. 旋转链表](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/61.%20Rotate%20List.swift)
