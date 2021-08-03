@@ -26,3 +26,4 @@
 <br/>[0063. 不同路径 II](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/63.%20Unique%20Paths%20II.swift)
 <br/>[0064. 最小路径和](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/64.%20Minimum%20Path%20Sum.swift)
 <br/>[0065. 有效数字](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/65.%20Valid%20Number.swift)
+<br/>[0066.加一](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/66.%20Plus%20One.swift)
