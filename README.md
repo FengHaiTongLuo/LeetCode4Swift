@@ -32,3 +32,4 @@
 <br/>[0066. 加一](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/66.%20Plus%20One.swift)
 <br/>[0067. 二进制求和](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/67.%20Add%20Binary.swift)
 <br/>[0068. 文本左右对齐](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/68.%20Text%20Justification.swift)
+<br/>[0069. x 的平方根](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/69.%20Sqrt(x).swift)
