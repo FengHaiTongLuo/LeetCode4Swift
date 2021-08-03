@@ -13,6 +13,7 @@
 <br/>[0010. 正则表达式匹配](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/10.%20Regular%20Expression%20Matching.swift)
 <br/>[0011. 盛最多水的容器](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/11.%20Container%20With%20Most%20Water.swift)
 <br/>[0012. 整数转罗马数字](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/12.%20Integer%20to%20Roman.swift)
+<br/>[0013. 罗马数字转整数](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/13.%20Roman%20to%20Integer.swift)
 <br/>[0054. 螺旋矩阵](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/54.%20Spiral%20Matrix.swift)
 <br/>[0055. 跳跃游戏](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/55.%20Jump%20Game.swift)
 <br/>[0056. 合并区间](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/56.%20Merge%20Intervals.swift)
@@ -24,3 +25,4 @@
 <br/>[0062. 不同路径](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/62.%20Unique%20Paths.swift)
 <br/>[0063. 不同路径 II](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/63.%20Unique%20Paths%20II.swift)
 <br/>[0064. 最小路径和](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/64.%20Minimum%20Path%20Sum.swift)
+<br/>[0065. 有效数字](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/65.%20Valid%20Number.swift)
