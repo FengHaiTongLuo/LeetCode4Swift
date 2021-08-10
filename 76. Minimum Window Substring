@@ -1,0 +1,64 @@
+class Solution {
+    func minWindow(_ s: String, _ t: String) -> String {
+        let s1 = s.cString(using: .utf8)!
+        let t1 = t.cString(using: .utf8)!
+        let count1 = strlen(s1)
+        let count2 = strlen(t1)
+
+        var i = -1
+        var j = -1
+        var cache: [Int?] = Array(repeating: nil, count: 128)
+        for i in 0..<count2 {
+            if let number = cache[Int(t1[i])] {
+                cache[Int(t1[i])] = number + 1
+            } else {
+                cache[Int(t1[i])] = 1
+            }
+        }
+        
+        var cnt = count2
+        var min = Int(Int32.max)
+        var i0 = -1
+        var i1 = -1
+
+        while i < count1 && j < count1 {
+            if cnt == 0 {
+                i += 1
+                if i >= count1 {
+                    break
+                }
+                if j - i + 1 < min {
+                    min = j - i + 1
+                    i0 = i
+                    i1 = j
+                }
+                if var number = cache[Int(s1[i])] {
+                    number += 1
+                    cache[Int(s1[i])] = number
+                    if number > 0 {
+                        cnt += 1
+                    }
+                }
+            } else {
+                j += 1
+                if j >= count1 {
+                    break
+                }
+                if var number = cache[Int(s1[j])] {
+                    number -= 1
+                    cache[Int(s1[j])] = number
+                    if number >= 0 {
+                        cnt -= 1
+                    }
+                }
+            }
+        }
+
+        if i0 != -1 {
+            let sub = s1[i0...i1].map {$0} + [0]
+            return String(cString: sub)
+        }
+
+        return ""
+    }
+}
