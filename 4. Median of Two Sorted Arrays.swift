@@ -1,4 +1,4 @@
-// O(lg(n))复杂度解法 1
+// O(log(n))复杂度解法 1
 class Solution {
     class Scope {
         var begin = 0
@@ -67,7 +67,7 @@ class Solution {
     }
 }
 
-// O(lg(n))复杂度解法 2
+// O(log(n))复杂度解法 2
 class Solution {
     func findMedianSortedArrays(_ nums1: [Int], _ nums2: [Int]) -> Double {
         struct RANGE {
