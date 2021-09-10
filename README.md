@@ -27,6 +27,7 @@
 <br/>[0024. 两两交换链表中的节点](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/24.%20Swap%20Nodes%20in%20Pairs.swift)
 <br/>[0025. K 个一组翻转链表](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/25.%20Reverse%20Nodes%20in%20k-Group.swift)
 <br/>[0026. 删除有序数组中的重复项](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array.swift)
+<br/>[0027. 移除元素](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/27.%20Remove%20Element.swift)
 <br/>[0054. 螺旋矩阵](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/54.%20Spiral%20Matrix.swift)
 <br/>[0055. 跳跃游戏](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/55.%20Jump%20Game.swift)
 <br/>[0056. 合并区间](https://github.com/FengHaiTongLuo/LeetCode4Swift/blob/main/56.%20Merge%20Intervals.swift)
